@@ -28,7 +28,6 @@ public class SearchBoard {
     //getter
     public int getWidth() {
         return width;
-
     }
 
     //getter
